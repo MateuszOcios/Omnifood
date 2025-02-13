@@ -588,10 +588,10 @@
   margin-bottom: 4rem;
 }
 
-.contact {
+.contacts {
   font-size: 1.6rem;
   font-style: normal;
-  line-height: 1.6rem;
+  line-height: 1.6;
 }
 
 .address {
